@@ -1,5 +1,6 @@
 # 💫 About Me:
-Software Developer enfocado en Full Stack Development con Python, JavaScript, TypeScript y Laravel. Experiencia en Web Development, Machine Learning, Deep Learning, Computer Vision y Facial Recognition desde proyectos y Research. Manejo de Git, GitHub, Scrum, Agile, Teamwork y Problem Solving.<br>
+Estudiante de Ingeniería de Sistemas | Desarrollo Web (MySQL, PHP) | Conocimientos básicos en Python, IA y Data Analytics | Interesada en soluciones para el sector salud
+Full Stack Development con Python, JavaScript, TypeScript y Laravel. Manejo de Git, GitHub, Scrum, Agile, Teamwork y Problem Solving.<br>
 
 
 ## 🌐 Socials:
